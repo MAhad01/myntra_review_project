@@ -2,14 +2,14 @@
 
 This project is a web application that allows users to scrape product reviews from Myntra (a popular Indian e-commerce website) based on a specified query. Users can enter a product query and specify the number of products they want to search for. The app then scrapes reviews for these products, displays them in a table, and provides an option to save the data to MongoDB. The results are also available as a downloadable spreadsheet.
 
-![App Screenshos](images\ss1.png)
-![App Screenshos](images\ss2.png)
-![App Screenshos](images\ss3.png)
-![App Screenshos](images\ss4.png)
-![App Screenshos](images\ss5.png)
-![App Screenshos](images\ss6.png)
-![App Screenshos](images\ss7.png)
-![App Screenshos](images\ss8.png)
+![App Screenshos](images/ss1.png)
+![App Screenshos](images/ss2.png)
+![App Screenshos](images/ss3.png)
+![App Screenshos](images/ss4.png)
+![App Screenshos](images/ss5.png)
+![App Screenshos](images/ss6.png)
+![App Screenshos](images/ss7.png)
+![App Screenshos](images/ss8.png)
 
 ## Features
 
