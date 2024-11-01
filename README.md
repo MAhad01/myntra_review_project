@@ -36,7 +36,7 @@ This project is a web application that allows users to scrape product reviews fr
 
 ## Requirements
 
-- **Python 3.x**: Ensure you have Python 3 installed.
+- **Python 3.11**: Ensure you have Python 3 installed.
 - **Streamlit**: For creating the web application interface.
 - **pandas**: For data handling and exporting.
 - **pymongo**: For interacting with MongoDB.
